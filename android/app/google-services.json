@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189122299711",
+    "firebase_url": "https://training-placement-cell-311e2.firebaseio.com",
+    "project_id": "training-placement-cell-311e2",
+    "storage_bucket": "training-placement-cell-311e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189122299711:android:28324f79f98a8e5593f58a",
+        "android_client_info": {
+          "package_name": "com.archit.king.training_placement_cell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189122299711-2l8ioo5c4sbefh7al2b792nb0scigv88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.archit.king.training_placement_cell",
+            "certificate_hash": "ba30b1562e14bfe6f22b1aa8ac613194acd5dc42"
+          }
+        },
+        {
+          "client_id": "189122299711-sap5ur19v6p4gh67o9l5ad2smfd6ohjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC172eDL015WNdamczrC6Fg5vBK3q68oqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189122299711-sap5ur19v6p4gh67o9l5ad2smfd6ohjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
